@@ -1,0 +1,7 @@
+* projectDocumentationScrum
+a documentation-template for scrum-projects
+** TODO TODOS
+*** TODO create a flake
+**** go-task
+**** shellColorDefinitions
+**** reveal-js

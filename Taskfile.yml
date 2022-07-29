@@ -1,0 +1,11 @@
+version: '3'
+
+tasks:
+  1:
+    cmds:
+      - task: createSprint
+
+  createSprint:
+    cmds:
+      - ./TASKS/createNewSprint.zsh
+    silent: true

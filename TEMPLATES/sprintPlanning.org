@@ -1,0 +1,11 @@
+* Sprint-Planning for SPRINT <SPRINT_NR>
+<START_DATE>--<END_DATE>
+
+** Topic One:    *Why is this Sprint valuable?*
+*** Sprint-Goal:
+
+** Topic Two:    *What can be Done this Sprint?*
+*** Sprint-Backlog-Items:
+
+** Topic Three: *How will the chosen work get done?*
+*** Plan:

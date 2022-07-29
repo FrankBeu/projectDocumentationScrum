@@ -1,0 +1,9 @@
+* Review for SPRINT 2
+<2022-07-24>--<2022-07-31>
+
+** Jira
+*** sprint
+https://frankb.atlassian.net/jira/software/projects/PAD/issues/?jql=Sprint%20%20%3D%20%22PM%20Sprint%202%22
+*** roadmap
+https://frankb.atlassian.net/jira/software/projects/PAD/boards/7/roadmap
+** TODO create TEMPLATE

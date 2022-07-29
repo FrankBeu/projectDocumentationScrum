@@ -1,0 +1,24 @@
+* Retro for SPRINT 2
+<2022-07-24>--<2022-07-31>
+
+** Overview
+Reflect back on what you and your team learned and
+what motivates the group to succeed by
+following the instructions for the 4Ls Retrospective Play.
+
+| DATE         |   |
+| TEAM         |   |
+| PARTICIPANTS |   |
+
+** 4Ls retrospective
+
+| MILESTONES | LOVED | LONGED FOR | LOATHED | LEARNED |
+|------------+-------+------------+---------+---------|
+|            | •     | •          | •       | •       |
+|            |       |            |         |         |
+
+** Action plan
+
+| ACTION | OWNER | DUE DATE | ACTION ITEMS |
+|--------+-------+----------+--------------|
+|        |       |          |              |

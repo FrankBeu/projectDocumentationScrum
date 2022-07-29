@@ -1,0 +1,26 @@
+* Retro for SPRINT 1
+<2022-07-24>--<2022-07-31>
+
+** Overview
+Reflect on past work and identify opportunities for improvement by
+following the instructions for the Retrospective Play.
+
+| DATE         |   |
+| TEAM         |   |
+| PARTICIPANTS |   |
+
+** Retrospective
+Add your Start doing, Stop doing, and Keep doing items to the table below. 
+We'll use these to talk about how we can improve our process going forward.
+
+| START DOING | STOP DOING | KEEP DOING |
+|-------------+------------+------------|
+| •           | •          | •          |
+| •           | •          | •          |
+
+
+** Action items
+ Add follow-up action items to help the team apply what they learned in the retrospective:
+
+-  
+-  
