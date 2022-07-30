@@ -1,4 +1,22 @@
 * project-documentation for <PROJECT_NAME>
+** TODO ProductGoal
+[[file:scrumGuide.org::*Commitment: Product Goal][scrumGuide]]
+
+** TODO Definition of Done
+[[file:scrumGuide.org::*Commitment: Definition of Done][scrumGuide]]
+
+#+BEGIN_EXAMPLE
+- Tests written and passing
+- Continuous Integration build passing
+- Security vulnerability scan passing
+- Cross-browser testing done on current top 5 browsers according to analytics
+- Mobile testing done on current top 3 mobile devices according to analytics
+- Google accessibility check passed
+- Code peer-reviewed
+- Documentation updated
+- Acceptance criteria met
+#+END_EXAMPLE
+
 * AKTUELLES
 * 〇
 ** 1  UNSORTIERTES

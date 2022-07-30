@@ -5,3 +5,4 @@ a documentation-template for scrum-projects
 **** go-task
 **** shellColorDefinitions
 **** reveal-js
+*** TODO list all tasks

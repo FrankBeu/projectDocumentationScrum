@@ -1,6 +1,11 @@
 * Review for SPRINT 108
 <2022-07-24>--<2022-07-31>
-
+** INFO
+*** date
+<DATE>
+*** team
+*** participants
+*** [[file:../scrumGuide.org::*Sprint Review][scrumGuide]]
 ** Jira
 *** sprint
 https://frankb.atlassian.net/jira/software/projects/PAD/issues/?jql=Sprint%20%20%3D%20%22PM%20Sprint%20108%22

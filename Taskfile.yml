@@ -4,8 +4,16 @@ tasks:
   1:
     cmds:
       - task: createSprint
+  2:
+    cmds:
+      - task: runTests
 
   createSprint:
     cmds:
       - ./TASKS/createNewSprint.zsh
+    silent: true
+
+  runTests:
+    cmds:
+      - ./TASKS/tests.zsh
     silent: true

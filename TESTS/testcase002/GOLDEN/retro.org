@@ -1,26 +1,33 @@
 * Retro for SPRINT 2
 <2022-07-24>--<2022-07-31>
-
+** INFO
+*** date
+<DATE>
+*** team
+*** participants
+*** [[file:../scrumGuide.org::*Sprint Retrospective][scrumGuide]]
 ** Overview
-Reflect on past work and identify opportunities for improvement by
-following the instructions for the Retrospective Play.
-
-| DATE         |   |
-| TEAM         |   |
-| PARTICIPANTS |   |
-
+Reflect on past work and identify opportunities for improvement.
+Reflect back on what you and your team learned and what motivates the group to succeed.
 ** Retrospective
-Add your Start doing, Stop doing, and Keep doing items to the table below. 
-We'll use these to talk about how we can improve our process going forward.
+How we can improve our process going forward?
+*** 4Ls
+**** LOVED
+**** LONGED FOR
+**** LOATHED
+**** LEARNED
+*** 3Ds
+**** START DOING
+**** STOP DOING
+**** KEEP DOING
+** Call-To-Action
+apply the retrospective's findings:
+*** XOR
+**** Action plan
+| ACTION | OWNER | DUE DATE | ACTION ITEMS |
+|--------+-------+----------+--------------|
+|        |       |          |              |
+**** Action items
 
-| START DOING | STOP DOING | KEEP DOING |
-|-------------+------------+------------|
-| •           | •          | •          |
-| •           | •          | •          |
-
-
-** Action items
- Add follow-up action items to help the team apply what they learned in the retrospective:
-
--  
--  
+-
+-

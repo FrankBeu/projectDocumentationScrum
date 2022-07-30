@@ -1,6 +1,14 @@
 * Sprint-Planning for SPRINT 1
 <2022-07-24>--<2022-07-31>
-
+** INFO
+*** date
+<DATE>
+*** team
+*** participants
+*** scrumGuide
+**** [[file:~/SRC/GITHUB/FRANKBEU/projectDocumentationScrum/scrumGuide.org::*Sprint Planning][Sprint Planning]]
+**** [[file:~/SRC/GITHUB/FRANKBEU/projectDocumentationScrum/scrumGuide.org::*Sprint Backlog][Sprint Backlog]]
+***** [[file:~/SRC/GITHUB/FRANKBEU/projectDocumentationScrum/scrumGuide.org::*Commitment: Sprint Goal][Commitment: Sprint Goal]]
 ** Topic One:    *Why is this Sprint valuable?*
 *** Sprint-Goal:
 

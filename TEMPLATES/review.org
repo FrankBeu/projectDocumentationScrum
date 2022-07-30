@@ -1,6 +1,11 @@
 * Review for SPRINT <SPRINT_NR>
 <START_DATE>--<END_DATE>
-
+** INFO
+*** date
+<DATE>
+*** team
+*** participants
+*** [[file:../scrumGuide.org::*Sprint Review][scrumGuide]]
 ** Jira
 *** sprint
 https://frankb.atlassian.net/jira/software/projects/PAD/issues/?jql=Sprint%20%20%3D%20%22PM%20Sprint%20<SPRINT_NR>%22
