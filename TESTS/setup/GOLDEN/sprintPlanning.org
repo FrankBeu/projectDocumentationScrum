@@ -1,0 +1,19 @@
+* Sprint-Planning for SPRINT <SPRINT_NR>
+<START_DATE>--<END_DATE>
+** INFO
+*** date
+<DATE>
+*** team
+*** participants
+*** scrumGuide
+**** [[file:~/SRC/GITHUB/FRANKBEU/projectDocumentationScrum/scrumGuide.org::*Sprint Planning][Sprint Planning]]
+**** [[file:~/SRC/GITHUB/FRANKBEU/projectDocumentationScrum/scrumGuide.org::*Sprint Backlog][Sprint Backlog]]
+***** [[file:~/SRC/GITHUB/FRANKBEU/projectDocumentationScrum/scrumGuide.org::*Commitment: Sprint Goal][Commitment: Sprint Goal]]
+** Topic One:    *Why is this Sprint valuable?*
+*** Sprint-Goal:
+
+** Topic Two:    *What can be Done this Sprint?*
+*** Sprint-Backlog-Items:
+
+** Topic Three: *How will the chosen work get done?*
+*** Plan:

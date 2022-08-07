@@ -1,0 +1,12 @@
+* Jira for SPRINT 2
+** Issue navigator
+*** allItems
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+*** ToDO
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%20AND%20status%20%3D%20%22To%20Do%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+*** IN PROGRESS
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%20AND%20status%20%3D%20%22In%20Progress%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+*** VERIFY
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%20AND%20status%20%3D%20%22Verify%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+*** DoNE
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%20AND%20status%20%3D%20%22Done%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22

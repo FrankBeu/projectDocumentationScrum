@@ -1,0 +1,33 @@
+* Retro for SPRINT <SPRINT_NR>
+<START_DATE>--<END_DATE>
+** INFO
+*** date
+<DATE>
+*** team
+*** participants
+*** [[file:../scrumGuide.org::*Sprint Retrospective][scrumGuide]]
+** Overview
+Reflect on past work and identify opportunities for improvement.
+Reflect back on what you and your team learned and what motivates the group to succeed.
+** Retrospective
+How we can improve our process going forward?
+*** 4Ls
+**** LOVED
+**** LONGED FOR
+**** LOATHED
+**** LEARNED
+*** 3Ds
+**** START DOING
+**** STOP DOING
+**** KEEP DOING
+** Call-To-Action
+apply the retrospective's findings:
+*** XOR
+**** Action plan
+| ACTION | OWNER | DUE DATE | ACTION ITEMS |
+|--------+-------+----------+--------------|
+|        |       |          |              |
+**** Action items
+
+-
+-

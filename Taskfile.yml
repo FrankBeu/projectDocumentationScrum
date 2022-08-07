@@ -17,3 +17,8 @@ tasks:
     cmds:
       - ./TASKS/tests.zsh
     silent: true
+
+  setup:
+    cmds:
+      - ./TASKS/setup.zsh
+    silent: true
