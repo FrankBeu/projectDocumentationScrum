@@ -1,0 +1,6 @@
+* Daily for SPRINT 108
+** INFO
+*** [[file:../scrumGuide.org::*Sprint Retrospective][scrumGuide]]
+** Daily
+Focus on progress toward the Sprint Goal and
+produce an actionable plan for the next day of work.

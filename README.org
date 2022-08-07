@@ -17,6 +17,7 @@
 - Acceptance criteria met
 #+END_EXAMPLE
 
+** TODO Definition of Ready
 * AKTUELLES
 * 〇
 ** 1  UNSORTIERTES

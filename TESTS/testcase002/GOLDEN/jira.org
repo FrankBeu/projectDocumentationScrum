@@ -1,10 +1,12 @@
 * Jira for SPRINT 2
 ** Issue navigator
+*** allItems
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%C4%81%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
 *** ToDO
-https://frankb.atlassian.net/issues/?jql=project%20%3D%20padm%C4%81%20AND%20status%20%3D%20%22To%20Do%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%C4%81%20AND%20status%20%3D%20%22To%20Do%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
 *** IN PROGRESS
-https://frankb.atlassian.net/issues/?jql=project%20%3D%20padm%C4%81%20AND%20status%20%3D%20%22In%20Progress%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%C4%81%20AND%20status%20%3D%20%22In%20Progress%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
 *** VERIFY
-https://frankb.atlassian.net/issues/?jql=project%20%3D%20padm%C4%81%20AND%20status%20%3D%20%22Verify%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%C4%81%20AND%20status%20%3D%20%22Verify%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
 *** DoNE
-https://frankb.atlassian.net/issues/?jql=project%20%3D%20padm%C4%81%20AND%20status%20%3D%20%22Done%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22
+https://<JIRA_SUBDOMAIN>.atlassian.net/issues/?jql=project%20%3D%20<PROJECT_NAME>%C4%81%20AND%20status%20%3D%20%22Done%22%20AND%20Sprint%20%20%3D%20%22PM%20Sprint%202%22

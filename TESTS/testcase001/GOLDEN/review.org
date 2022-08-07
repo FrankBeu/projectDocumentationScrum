@@ -1,14 +1,82 @@
-* Review for SPRINT 1
+#+SETUPFILE: ~/.emacs.d/orgmode/revealjs/revealjs.setup.org
+{{{show-url-on-title-slide}}}
+
+
+#+title:  Sprint 1
+#+subtitle: <SPRINT_GOAL>
+
+
+* Review for @@html:<br>@@ SPRINT 1
+  #+ATTR_HTML: :style text-align:center
+  #+BEGIN_EXAMPLE
+  start: <START_DATE>
+  end:   <END_DATE>
+  #+END_EXAMPLE
+** INFO                                                            :noexport:
+*** TODO reviewdate
+#+date: <DATE>
+*** sprint-duration
 <2022-07-24>--<2022-07-31>
-** INFO
-*** date
-<DATE>
 *** team
 *** participants
 *** [[file:../scrumGuide.org::*Sprint Review][scrumGuide]]
+*** reveal
+**** snippets
+- reveal-end-of-talk:      =ret=
+- reveal-speaker-notes: =rsn=
+- reveal-split-slide:        =rss=
+**** linebreak
+***** end of line
+=\\=
+***** inline
+@@html:<br>@@
+**** compilationDate
+,#+date: {{{time(%Y-%m-%d)}}}
+**** title and subtitle
+is rendered allCaps
+use kebab-case
+**** prevent subtree from beeing exported                          :noexport:
+**** center
+  #+ATTR_HTML: :style text-align:center
+** ...
+#+REVEAL: split
+[[<ISSUE-LINK>][<ISSU-ID>] ]
+#+REVEAL: split
+#+ATTR_HTML: width="250px"
+#+ATTR_ORG: :width 250
+[[./assets/<imageName.jpg>] ]
+
+** ...
+#+REVEAL: split
+[[<ISSUE-LINK>][<ISSU-ID>] ]
+#+REVEAL: split
+#+ATTR_HTML: width="250px"
+#+ATTR_ORG: :width 250
+[[./assets/<imageName.jpg>] ]
+
 ** Jira
-*** sprint
-https://frankb.atlassian.net/jira/software/projects/PAD/issues/?jql=Sprint%20%20%3D%20%22PM%20Sprint%201%22
-*** roadmap
-https://frankb.atlassian.net/jira/software/projects/PAD/boards/7/roadmap
-** TODO create TEMPLATE
+*** [[https://<JIRA_SUBDOMAIN>.atlassian.net/jira/software/projects/<PROJECT_NAME>/issues/?jql=Sprint%20%20%3D%20%22PM%20Sprint%202%22][sprint] ]
+*** [[https://<JIRA_SUBDOMAIN>.atlassian.net/jira/software/projects/<PROJECT_NAME>/boards/7/roadmap][roadmap] ]
+{{{end-of-talk}}}
+** FUNDUS                                                         :noexport:
+* LOCAL VARIABLES                                                  :noexport:
+** url
+#+BEGIN_SRC elisp
+(setq org-fb-re-reveal-talk-url "https://keynotes.thesym.site/<PROJECT_NAME>")
+#+END_SRC
+*** TODO set in localVaraibles
+** variable-fundus
+# org-export-allow-bind-keywords: t
+# org-export-dispatch-use-expert-ui: t
+# org-re-reveal-extra-css: "./additional.css"
+# org-fb-re-reveal-talk-url: "https://keynotes.thesym.site/<PROJECT_NAME>"
+** localVariables
+Local Variables:
+org-re-reveal-title-slide: "~/.emacs.d/orgmode/revealjs/revealjs.titleSlide.html"
+org-re-reveal-single-file: nil
+org-fb-re-reveal-talk-url-show-anchor-on-title-slide: nil
+org-fb-re-reveal-talk-url-show-qrCode-on-title-slide: nil
+org-fb-re-reveal-talk-url-show-qrCode-and-anchor-on-last-slide: t
+org-export-with-toc: nil 
+org-export-with-section-numbers: nil
+End:
